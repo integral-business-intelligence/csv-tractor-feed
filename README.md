@@ -4,6 +4,8 @@ A tool for humans to split text for upload into a vector database
 
 ![tractor feed paper](https://raw.githubusercontent.com/integral-business-intelligence/csv-tractor-feed/refs/heads/main/Altair_Basic_Sign.jpg)
 
+[Image Source: Wikipedia](https://en.wikipedia.org/wiki/Paul_Allen#Microsoft)
+
 # About the name
 
 Tractor feed, also known as pin-feed or continuous-form printing, is a method of feeding paper through a printer or other computer peripheral device. It was commonly used with dot-matrix printers and line printers in the past.
