@@ -2,7 +2,7 @@
 ---
 A tool for humans to split text for upload into a vector database 
 
-![tractor feed paper](https://github.com/integral-business-intelligence/csv-tractor-feed/Altair_Basic_Sign.jpg)
+![tractor feed paper](https://raw.githubusercontent.com/integral-business-intelligence/csv-tractor-feed/refs/heads/main/Altair_Basic_Sign.jpg)
 
 # About the name
 ---
