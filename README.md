@@ -2,7 +2,7 @@
 ---
 A tool for humans to split text for upload into a vector database 
 
-![tractor feed paper](https://github.com/integral-business-intelligence/langflow-custom-components/text/splitting/Altair_Basic_Sign.jpg)
+![tractor feed paper](https://github.com/integral-business-intelligence/csv-tractor-feed/Altair_Basic_Sign.jpg)
 
 # About the name
 ---
@@ -12,12 +12,12 @@ In a tractor feed system, the paper is fed through the printer using a series of
 
 The key features of tractor feed printing include:
 
-    Continuous paper: The paper is supplied in a continuous roll or fanfold form, rather than individual sheets.
+- Continuous paper: The paper is supplied in a continuous roll or fanfold form, rather than individual sheets.
 
-    Perforated edges: The paper has perforated edges with holes that align with the tractor feed mechanism in the printer.
+- Perforated edges: The paper has perforated edges with holes that align with the tractor feed mechanism in the printer.
 
-    Precise alignment: The tractor feed mechanism ensures the paper is pulled through the printer in a straight and consistent manner, allowing for accurate printing.
+- Precise alignment: The tractor feed mechanism ensures the paper is pulled through the printer in a straight and consistent manner, allowing for accurate printing.
 
-    Continuous printing: Tractor feed printers can print continuously without the need to manually insert and remove individual sheets of paper.
+- Continuous printing: Tractor feed printers can print continuously without the need to manually insert and remove individual sheets of paper.
 
 Tractor feed printing was particularly useful in applications that required high-volume, continuous printing, such as in accounting, inventory management, and other business operations. However, with the rise of laser and inkjet printers that use individual sheets of paper, tractor feed printing has become less common in modern office environments.
