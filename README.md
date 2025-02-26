@@ -3,6 +3,7 @@
 A tool for humans to split text for upload into a vector database 
 
 ![tractor feed paper](https://raw.githubusercontent.com/integral-business-intelligence/csv-tractor-feed/refs/heads/main/Altair_Basic_Sign.jpg =50%x50%)
+<img src="[URL_TO_YOUR_IMAGE](https://raw.githubusercontent.com/integral-business-intelligence/csv-tractor-feed/refs/heads/main/Altair_Basic_Sign.jpg)" alt="Image of tractor feed paper" style="width: 50%;">
 
 [Image Source: Wikipedia](https://en.wikipedia.org/wiki/Paul_Allen#Microsoft)
 
