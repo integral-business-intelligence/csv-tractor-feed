@@ -10,6 +10,8 @@ A tool for humans to split text for upload into a vector database
 
 CSV Tractor Feed is a simple but powerful Langflow component that treats each non-empty row in column A of a CSV file as a separate chunk for RAG systems, stopping at the first empty cell. This component enables business users to create precise, custom chunks without writing code.
 
+**The core pattern of using a CSV's column A for custom chunks can be implemented in a few lines of code regardless of your preferred RAG pipeline setup - you can adapt this code to tools other than Langflow**
+
 # Why Use CSV Tractor Feed?
 
 Traditional text splitters often struggle with complex documents where different sections need different chunking approaches. CSV Row Splitter puts chunking control directly in users' hands by leveraging familiar spreadsheet tools:
