@@ -36,6 +36,8 @@ The component stops processing at the first empty cell in column A, treating eac
 - In the Langflow UI, add a generic custom component
 - Click to select the component, click "<> Code", and replace the generic code with this script
 
+![image from langflow](https://raw.githubusercontent.com/integral-business-intelligence/csv-tractor-feed/refs/heads/main/csv-tractor-feed.png)
+
 # Limitations
 
 - Only processes text from column A (ignores other columns)
